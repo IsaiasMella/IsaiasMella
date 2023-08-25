@@ -3,7 +3,7 @@
 
 
 # 🙋‍♂️ Redes Sociales:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#4459) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isaias-mella/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaias-mella/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IsaiasMella95) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaias-mella/) 
 
 # 🚀 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasMella&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
