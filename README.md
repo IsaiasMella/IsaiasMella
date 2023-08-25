@@ -1,8 +1,8 @@
-# ⚡ About Me:
+# ⚡ Sobre mi:
 👋 ¡Hola!<br>Soy Isaías, tengo 28 Años.<br><br>Mi objetivo es alcanzar el puesto de Team Leader y dirigir un grupo de profesionales júnior y semi senior, ya que anteriormente tuve la oportunidad de brindar capacitación y me encantó esa experiencia. Ser un líder de equipo es un desafío y una gran responsabilidad, pero también es muy gratificante.
 
 
-# 🙋‍♂️ Socials:
+# 🙋‍♂️ Redes Sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#4459) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isaias-mella/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaias-mella/) 
 
 # 🚀 GitHub Stats:
