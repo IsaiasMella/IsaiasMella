@@ -3,7 +3,8 @@
 
 
 # 🙋‍♂️ Redes Sociales:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IsaiasMella95) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaias-mella/) 
+[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/IsaiasMella95)
+[<img align="left" alt="Linkedin" width="120" hight="80" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png">](https://www.linkedin.com/in/isaias-mella/)
 
 # 🚀 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasMella&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
