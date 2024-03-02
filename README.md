@@ -1,8 +1,7 @@
 # ⚡ Sobre mi:
-
 <div>
-<img align="right" height="270px" width="270px" alt="GIF" src="https://github.com/IsaiasMella/IsaiasMella/assets/67384494/5b45c8e6-0dd9-469d-af1e-e32fc08099e5">
-
+<img align="right" height="280px" width="270px" alt="GIF" src="https://github.com/IsaiasMella/IsaiasMella/assets/67384494/5b45c8e6-0dd9-469d-af1e-e32fc08099e5">
+<br>
 <p align="left">¡Hola! 👋<br>Soy Isaías, tengo 28 Años.<br><br>Mi objetivo es alcanzar el puesto de Team Leader y dirigir un grupo de profesionales junior y semi senior, ya que anteriormente tuve la oportunidad de brindar capacitación y me encantó esa experiencia. Ser un líder de equipo es un desafío y una gran responsabilidad, pero también es muy gratificante.<p/>
 <div/>
 <br/>
