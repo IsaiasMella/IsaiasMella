@@ -5,7 +5,7 @@
 <br>
 <p align="left">¡Hola! 👋<br>Soy Isaías, tengo 28 Años.<br><br>Mi objetivo es alcanzar el puesto de Team Leader y dirigir un grupo de profesionales junior y semi senior, ya que anteriormente tuve la oportunidad de brindar capacitación y me encantó esa experiencia. Ser un líder de equipo es un desafío y una gran responsabilidad, pero también es muy gratificante.<p/>
 <div/>
-  <h3> 🙋‍♂️ Redes Sociales: <h3/>
+  <h3>Redes Sociales: <h3/>
 <a href="https://twitter.com/IsaiasMella95"> 
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >
 <a/>
