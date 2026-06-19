@@ -3,7 +3,7 @@
   <br>
 <img align="right" height="280px" width="270px" alt="GIF" src="https://github.com/IsaiasMella/IsaiasMella/assets/67384494/5b45c8e6-0dd9-469d-af1e-e32fc08099e5">
 <br>
-<p align="left">¡Hola! 👋<br>Soy Isaías, tengo 29 Años.<br><br>Trabajo en Desky como Tech Lead. Fanático de la tecnología y la innovación, de la IA, la F1 y tomar mate mientras programo. 😎<p/>
+<p align="left">¡Hola! 👋<br>Soy Isaías, tengo 31 Años.<br><br>Trabajo como Full Stack Developer, actualmente en proyectos de sector gubernamental (Aduana Argentina). Fanático de la tecnología y la innovación, de la IA, la F1 y tomar mate mientras programo. 😎<p/>
 <p align="left">🎯 Mi objetivo es ayudarte a vos o a tu empresa a desarrollar ese producto o servicio que tanto potencial tiene mediante software que sea mantenible, escalable y eficiente.<p/>
 <div/>
   <h3>Redes Sociales: <h3/>
