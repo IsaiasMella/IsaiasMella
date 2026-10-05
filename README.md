@@ -1,24 +1,23 @@
-# ⚡ Sobre mi:
-<div>
-  <br>
+# ⚡ Sobre mí
+
 <img align="right" height="280px" width="270px" alt="GIF" src="https://github.com/IsaiasMella/IsaiasMella/assets/67384494/5b45c8e6-0dd9-469d-af1e-e32fc08099e5">
-<br>
-<p align="left">¡Hola! 👋<br>Soy Isaías, tengo 31 Años.<br><br>Trabajo como Full Stack Developer, actualmente en proyectos de sector gubernamental (Aduana Argentina). Fanático de la tecnología y la innovación, de la IA, la F1 y tomar mate mientras programo. 😎<p/>
-<p align="left">🎯 Mi objetivo es ayudarte a vos o a tu empresa a desarrollar ese producto o servicio que tanto potencial tiene mediante software que sea mantenible, escalable y eficiente.<p/>
-<div/>
-  <h3>Redes Sociales: <h3/>
-<a href="https://twitter.com/IsaiasMella95"> 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >
-<a/>
-<a href="https://www.linkedin.com/in/isaias-mella/"> 
-  <img align="left" alt="Linkedin" width="120" hight="80" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png">
-<a/>
 
-# 🚀 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiasMella&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+¡Hola! 👋 Soy Isaías, **AI Engineer | Full Stack** con +6 años de experiencia.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+Construyo soluciones con LLMs, RAG y agentes integradas en productos en producción, en sectores exigentes como el gubernamental (Aduana Argentina), fintech e inmobiliario. Llevé proyectos desde cero hasta producción y lideré equipos en el camino.
 
+Fanático de la IA, la F1 y el mate mientras programo. 🧉
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Proyecto destacado
+
+**[vacantia](https://github.com/IsaiasMella/vacantia)**: agregador de búsqueda de empleo que puntúa vacantes contra un CV usando LLMs.
+
+### 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**También:** RAG · Chroma · Pinecone · Whisper · Alembic · Node.js · SQL Server
+
+### 📫 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/isaias-mella/) · isaias.mella2013@gmail.com
