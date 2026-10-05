@@ -20,4 +20,15 @@ Fanático de la IA, la F1 y el mate mientras programo. 🧉
 
 ### 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/isaias-mella/) · isaias.mella2013@gmail.com
+<a href="https://www.linkedin.com/in/isaias-mella/">
+  <img alt="LinkedIn" width="120" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png?raw=true">
+</a>
+<a href="https://twitter.com/IsaiasMella95">
+  <img alt="X" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg">
+</a>
+
+📧 Mail (copialo con el botón de la derecha):
+
+```
+isaias.mella2013@gmail.com
+```
